@@ -3,3 +3,4 @@
 -good for coding collaboration
 # Weaknesses
 -You need to actively use it and spend time and thought
+-Can't handle large amount of data well
